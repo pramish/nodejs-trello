@@ -11,6 +11,6 @@ Simple API for creating the cards and assigning to the user
 
 If you have any questions, please do let me know.
 
-You can either find me at my [official website](https://pramishluitel.netlify.app)
+You can find me at [official website](https://pramishluitel.netlify.app)
 
 # Happy coding!
