@@ -11,11 +11,12 @@ const PORT = process.env.PORT || 5000;
 
 app.use(bodyParser.json());
 app.use(cors());
+
 app.use(
   "/graphql",
   graphqlHTTP({
-    schema:schema,
-    rootValue:rootValue,
+    schema: schema,
+    rootValue: rootValue,
     graphiql: true,
   })
 );
